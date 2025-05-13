@@ -6,7 +6,7 @@
     "skillList": "校园经历",
     "awardList": "个人技能及自我评价",
     "workList": "",
-    "aboutme": ""
+    
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
@@ -103,8 +103,6 @@
     }
   ],
   "workList": [],
-  "aboutme": {
-    },
   "theme": {
     "color": "#2f5785",
     "tagColor": "#8bc34a"
